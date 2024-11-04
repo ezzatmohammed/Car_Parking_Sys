@@ -1,0 +1,12 @@
+# YOLOv8 model files
+yolov8n.pt
+yolov8s.pt
+
+# Python script
+gitmyhand dirty.py
+
+# CarPark directory
+CarParkROIs/
+
+# Video file
+easy1.mp4

@@ -1,0 +1,88 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"172cbe77-7dd2-4eac-9354-d648b3bc0f37\" name=\"Changes\" comment=\"fisrt commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/CarParkROIs\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/car-detection-freehand-smooth.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/easy1.mp4\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/gitmyhand dirty.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/yolov8n.pt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/yolov8s.pt\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CarParkSpots\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CarSpaceDetection.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CarSpaceDetectionFinal.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/req.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/req.txt\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/vid2.mp4\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/ezzatmohammed/car_parking_system.git\",\r\n    \"accountId\": \"2e840273-08fb-4600-8a1f-f94c23b16964\"\r\n  }\r\n}]]></component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/CarSpaceDetection.py\" root0=\"FORCE_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2m9KdEeMSKYsEE5gZTscD6duFwC\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.CarSpaceDetection.executor\": \"Run\",\r\n    \"Python.CarSpaceDetectionFinal.executor\": \"Run\",\r\n    \"Python.Spot_mask.executor\": \"Run\",\r\n    \"Python.car-detection-freehand-smooth.executor\": \"Run\",\r\n    \"Python.car-detection-freehand.executor\": \"Run\",\r\n    \"Python.car2.executor\": \"Run\",\r\n    \"Python.car3.executor\": \"Run\",\r\n    \"Python.gitmyhand dirty.executor\": \"Run\",\r\n    \"Python.object_detection.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\car_parking\\car_parking_detection\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19\" />\r\n        <option value=\"bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"172cbe77-7dd2-4eac-9354-d648b3bc0f37\" name=\"Changes\" comment=\"\" />\r\n      <created>1726483436831</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1726483436831</updated>\r\n      <workItem from=\"1726483448288\" duration=\"1088000\" />\r\n      <workItem from=\"1726567927889\" duration=\"20000\" />\r\n      <workItem from=\"1726630941258\" duration=\"36000\" />\r\n      <workItem from=\"1726914691771\" duration=\"11478000\" />\r\n      <workItem from=\"1727449536432\" duration=\"30000\" />\r\n      <workItem from=\"1729074590482\" duration=\"1906000\" />\r\n      <workItem from=\"1729498742961\" duration=\"9975000\" />\r\n      <workItem from=\"1729520553296\" duration=\"869000\" />\r\n      <workItem from=\"1729667633782\" duration=\"2100000\" />\r\n      <workItem from=\"1729670524435\" duration=\"1724000\" />\r\n      <workItem from=\"1729977289801\" duration=\"98000\" />\r\n      <workItem from=\"1730203509183\" duration=\"7000\" />\r\n      <workItem from=\"1730270277543\" duration=\"1267000\" />\r\n      <workItem from=\"1730713363799\" duration=\"14164000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"fisrt commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729669019369</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729669019369</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"User\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"*\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"user\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"*\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"fisrt commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"fisrt commit\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$object_detection.coverage\" NAME=\"object_detection Coverage Results\" MODIFIED=\"1726926798319\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$Spot_mask.coverage\" NAME=\"Spot_mask Coverage Results\" MODIFIED=\"1726929711994\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$CarSpaceDetectionFinal.coverage\" NAME=\"CarSpaceDetectionFinal Coverage Results\" MODIFIED=\"1729668698158\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$CarSpaceDetection.coverage\" NAME=\"CarSpaceDetection Coverage Results\" MODIFIED=\"1730714246291\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$car3.coverage\" NAME=\"car3 Coverage Results\" MODIFIED=\"1730714215730\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$car_detection_freehand_smooth.coverage\" NAME=\"car-detection-freehand-smooth Coverage Results\" MODIFIED=\"1730728156847\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$gitmyhand_dirty.coverage\" NAME=\"gitmyhand dirty Coverage Results\" MODIFIED=\"1730727279531\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$car2.coverage\" NAME=\"car2 Coverage Results\" MODIFIED=\"1730714363314\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/car_parking_detection$car_detection_freehand.coverage\" NAME=\"car-detection-freehand Coverage Results\" MODIFIED=\"1730714630469\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2869ec73013011a872d43519a326abbe7da71897)
++++ b/.idea/workspace.xml	(date 1730729094365)
+@@ -4,21 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="172cbe77-7dd2-4eac-9354-d648b3bc0f37" name="Changes" comment="fisrt commit">
+-      <change afterPath="$PROJECT_DIR$/CarParkROIs" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/car-detection-freehand-smooth.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/easy1.mp4" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gitmyhand dirty.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/yolov8n.pt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/yolov8s.pt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CarParkSpots" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CarSpaceDetection.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CarSpaceDetectionFinal.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/req.txt" beforeDir="false" afterPath="$PROJECT_DIR$/req.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/vid2.mp4" beforeDir="false" />
+-    </list>
++    <list default="true" id="172cbe77-7dd2-4eac-9354-d648b3bc0f37" name="Changes" comment="fisrt commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -34,6 +20,12 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "ezzatmohammed"
++  }
++}]]></component>
+   <component name="GithubPullRequestsUISettings"><![CDATA[{
+   "selectedUrlAndAccountId": {
+     "url": "https://github.com/ezzatmohammed/car_parking_system.git",
+@@ -56,6 +48,7 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+     "Python.CarSpaceDetection.executor": "Run",
+     "Python.CarSpaceDetectionFinal.executor": "Run",
+     "Python.Spot_mask.executor": "Run",
+@@ -110,7 +103,7 @@
+       <workItem from="1729977289801" duration="98000" />
+       <workItem from="1730203509183" duration="7000" />
+       <workItem from="1730270277543" duration="1267000" />
+-      <workItem from="1730713363799" duration="14164000" />
++      <workItem from="1730713363799" duration="14497000" />
+     </task>
+     <task id="LOCAL-00001" summary="fisrt commit">
+       <option name="closed" value="true" />
+@@ -120,7 +113,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1729669019369</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="fisrt commit">
++      <option name="closed" value="true" />
++      <created>1730728908525</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1730728908525</updated>
++    </task>
++    <task id="LOCAL-00003" summary="fisrt commit">
++      <option name="closed" value="true" />
++      <created>1730729005928</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1730729005928</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
